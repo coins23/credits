@@ -292,7 +292,7 @@ const App: React.FC = () => (
           <Main />
         </Route>
         <Route path="/">
-          <Redirect to="/coins17" />
+          <Redirect to="/coins23" />
         </Route>
       </Switch>
     </Container>

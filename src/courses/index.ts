@@ -1,5 +1,5 @@
 import type Course from "../Course";
-import courses from "./courses1.json";
+import courses from "./courses.json";
 
 const codeToCourse = new Map<string, Course>();
 
