@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.54168e1c.chunk.css",
+    "main.js": "./static/js/main.47dba698.chunk.js",
+    "main.js.map": "./static/js/main.47dba698.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c4e1cc49.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c4e1cc49.js.map",
+    "static/css/2.1a02f21c.chunk.css": "./static/css/2.1a02f21c.chunk.css",
+    "static/js/2.73041932.chunk.js": "./static/js/2.73041932.chunk.js",
+    "static/js/2.73041932.chunk.js.map": "./static/js/2.73041932.chunk.js.map",
+    "static/js/3.c71035d0.chunk.js": "./static/js/3.c71035d0.chunk.js",
+    "static/js/3.c71035d0.chunk.js.map": "./static/js/3.c71035d0.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "./static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.54168e1c.chunk.css.map": "./static/css/main.54168e1c.chunk.css.map",
+    "static/js/2.73041932.chunk.js.LICENSE.txt": "./static/js/2.73041932.chunk.js.LICENSE.txt",
+    "static/js/findAssignments.worker.22f6679e.worker.js": "./static/js/findAssignments.worker.22f6679e.worker.js",
+    "static/js/findAssignments.worker.22f6679e.worker.js.map": "./static/js/findAssignments.worker.22f6679e.worker.js.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4e1cc49.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.73041932.chunk.js",
+    "static/css/main.54168e1c.chunk.css",
+    "static/js/main.47dba698.chunk.js"
+  ]
+}
